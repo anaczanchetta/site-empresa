@@ -1,0 +1,26 @@
+   Quero criar um site nesta pasta. Antes de escrever qualquer código, me entreviste.
+Faça UMA pergunta por vez e espere a minha resposta antes da próxima.
+Pergunte sobre:
+1. Objetivo do site (vender serviços, portfólio, captar contatos, apresentar a empresa).
+2. Público que quero atingir.
+3. Nome, marca, slogan e tom de voz.
+4. Seções da página (ex.: início, sobre, serviços, depoimentos, perguntas frequentes, contato).
+5. Textos de cada seção, ou se você deve propor os textos.
+6. Serviços ou produtos, com preço e prazo (se eu quiser mostrar).
+7. Cores (de preferência em código hexadecimal) e estilo visual.
+8. Logotipo e imagens que estão nesta pasta.
+9. Contatos: WhatsApp, e-mail, Instagram, LinkedIn e endereço.
+10. Ação principal do visitante (ex.: botão "Fale no WhatsApp").
+Depois da entrevista, mostre um resumo do site e espere eu responder "pode criar".
+ 
+Regras técnicas:
+- Site estático em HTML, CSS e JavaScript puros, sem frameworks e sem etapa de build.
+- Página principal com o nome index.html, na raiz desta pasta.
+- Use caminhos relativos (ex.: css/style.css, e não /css/style.css), para funcionar no GitHub Pages.
+- Layout responsivo (celular e computador) e com bom contraste de cores (WCAG AA).
+- Textos em português do Brasil. Imagens com texto alternativo (alt).
+- Não coloque senhas, chaves ou dados sensíveis no código.
+- Não invente depoimentos, números ou clientes: use [PREENCHER] quando faltar informação.
+- Deixe o fechamento </body> limpo: depois vamos acrescentar o chat.js do assistente de vendas.
+- Crie um .gitignore com a linha .claude/settings.local.json e um README.md curto.
+- Não rode comandos git: eu mesmo vou publicar.
